@@ -1,4 +1,4 @@
-# HFFam_Practice
+# HFFam_Practice ( Repo made for programmers having problems with dynamic programming )
 Dynamic Programming Problems for beginners/intermediate level.
 Please find below top 50 common data structure problems that can be solved using Dynamic programming -
 Longest Common Subsequence | Introduction & LCS Length
